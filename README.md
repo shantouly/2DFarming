@@ -1,4 +1,5 @@
 # Introduction  
+  这是一个2D的农场类型游戏  
 ## Contains 主要包含的功能  
   ·Animation system 动画系统  
   ·UI tookit,UI Builder for creating item information  使用UI Builder创建物品信息  
